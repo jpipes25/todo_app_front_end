@@ -10,14 +10,33 @@ html{
 .time-span{
     font-style:italic; 
     font-size:8;
-    border-radius:30px; 
+    border-radius:15px; 
     padding:5px 10px 5px 10px;
     background-color:#66ccff;
+    
 }
 
 li{
-    padding:25px;
-    margin-bottom:5px;
+    color: #ff3300;
+    padding:12px;
+    margin-bottom:10px;
     background-color:#66ff99;
     border:15px solid #ffcc00;
+}
+
+h1 {
+    text-align: center;
+}
+ul {
+    list-style: none;
+    padding:25px;
+    margin:15px;
+    background-color:#66ff99;
+    box-shadow:7px 7px 7px #3366cc;
+}
+    
+    
+    
+    
+    
 }
