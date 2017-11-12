@@ -1,0 +1,26 @@
+a{ 
+    text-decoration:none; 
+    color:black;
+    vertical-align:baseline;
+    padding:6px;
+}
+
+#E{
+    background-color:#ff9900 ;
+}
+#E:hover{
+     background:#00ff00;
+    }
+#gb{
+    background-color:#3399ff;
+}
+#gb:hover{
+    background:#00ff00;
+}
+
+#D{
+    background-color:#ff5050;
+}
+#D:hover{
+    background:#00ff00;
+}
