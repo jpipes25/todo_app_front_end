@@ -7,3 +7,17 @@ html{
     width:80%;
     margin:auto;
 }
+.time-span{
+    font-style:italic; 
+    font-size:8;
+    border-radius:30px; 
+    padding:5px 10px 5px 10px;
+    background-color:#66ccff;
+}
+
+li{
+    padding:25px;
+    margin-bottom:5px;
+    background-color:#66ff99;
+    border:15px solid #ffcc00;
+}
